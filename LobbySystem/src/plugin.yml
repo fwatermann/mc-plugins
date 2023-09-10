@@ -1,0 +1,25 @@
+name: LobbySystem
+version: 1.0
+author: LegitFinn & aktualisiert
+main: de.legitfinn.lobby.main.main
+softdepend: [PPermissions, ZZZSignSystemAPI]
+commands:
+  fly:
+    usage: /<command>
+    description: De-/Aktiviert fliegen.
+    aliases: [flight,fliegen,flugmodus,schweben]
+  build:
+    usage: /<command>
+    description: De-/Aktiviert bauen
+    aliases: [bauen,baumodus]
+  dailyrewardarea:
+    usage: /<command>
+    description: Command
+    aliases: [dra, drarea]
+  payments:
+    usage: /<command>
+    description: View Payments
+  setwarp:
+    usage: /<command>
+    description: Command
+    aliases: [swarp,setlocation,setloc]

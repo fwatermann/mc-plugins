@@ -1,0 +1,8 @@
+name: PPermissions
+version: 1.0
+author: LegitFinn
+main: de.legitfinn.ppermissions.main.main
+softdepend: [ZZZSignSystemAPI]
+commands:
+  ppermissions:
+    aliases: [pp,pperms]

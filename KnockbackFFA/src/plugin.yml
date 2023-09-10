@@ -1,0 +1,13 @@
+name: KnockbackFFA
+version: 1.0
+main: de.legitfinn.knockbackffa.main.main
+author: LegitFinn
+softdepend: [PPermissions, ZZZSignSystemAPI]
+commands:
+  stats:
+    aliases: [statistic,statistics,statistik,statistiken]
+  troll:
+    aliases: [trolling,trollmodus,hacking,hack,cheater]
+  nick:
+  kffaadmin:
+  savekit:

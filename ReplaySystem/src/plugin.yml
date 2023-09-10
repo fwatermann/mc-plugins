@@ -1,0 +1,6 @@
+name: ReplaySystem
+version: 1.0
+author: LegitFinn
+main: de.legitfinn.replaysystem.main.Main
+commands:
+  replay:

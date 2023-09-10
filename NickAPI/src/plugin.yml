@@ -1,0 +1,8 @@
+name: NickAPI
+version: 1.0
+author: LegitFinn
+main: de.legitfinn.NickApi.main.main
+commands:
+  showNick:
+    usage: /<command> [name]
+    description: Zeigt den echten Namen eines Spielers an.

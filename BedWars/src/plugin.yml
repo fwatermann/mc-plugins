@@ -1,0 +1,19 @@
+name: BedWars
+author: LegitFinn
+version: 1.0
+main: de.legitfinn.bedwars.main.BedWars
+softdepend: [ZZZSignSystemAPI,PPermissions]
+commands:
+  bedwars:
+    aliases: [bw]
+    permission: bedwars.admin
+  start:
+    permission: bedwars.start
+  troll:
+    permission: bedwars.troll
+  nick:
+    permission: nick.allow
+  stats:
+    aliases: [statistic,statistics,statistiken,statistik]
+  forcemap:
+    permission: forcemap
