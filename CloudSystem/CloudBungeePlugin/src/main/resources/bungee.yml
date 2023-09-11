@@ -1,0 +1,14 @@
+name: CloudBungeeConnector
+version: '${version}'
+author: Finn W.
+main: de.finn.CloudSystem.Bungee.main.Main
+depends: [ServerAPI]
+commands:
+  alert:
+  broadcast:
+  glist:
+  grestart:
+  lobby:
+  ping:
+  refreshPing:
+  wartung:

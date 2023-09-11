@@ -1,0 +1,4 @@
+name: CloudSpigotPlugin
+version: '${version}'
+main: de.finn.CloudSystem.Spigot.main.Main
+api-version: '1.20'

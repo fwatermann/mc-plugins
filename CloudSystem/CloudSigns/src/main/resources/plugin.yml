@@ -1,0 +1,6 @@
+name: CloudSigns
+version: '${version}'
+main: de.finn.CloudSystem.Signs.main.Main
+api-version: '1.20'
+depend: [CloudSpigotPlugin]
+authors: [Finn Watermann]

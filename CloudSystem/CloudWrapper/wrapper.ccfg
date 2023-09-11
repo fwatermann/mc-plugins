@@ -1,0 +1,4 @@
+Connection.Master.IP=127.0.0.1
+Connection.Master.Port=31215
+Connection.Server.Port=31217
+Connection.Master.Key=pYBTdzgtSOtDqmQX041ej6Ooeu1R1hvT3iX6dycHLyQP4PC9aokHldMcR9qvfeXpc

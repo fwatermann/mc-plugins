@@ -1,0 +1,4 @@
+#Startup Konfiguration
+#Nutze <GAMEMODE>=<SERVERAMOUNT>=<MIN-SERVERAMOUNT>
+LOBBY=1=1
+BEDWARS=1=1
